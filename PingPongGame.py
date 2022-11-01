@@ -73,8 +73,8 @@ def paddleB_Down():
     right_pad.sety(y)
 
 
-def pause():
-    t.done()
+# def pause():
+#     t.done()
 
 
 # === Keyboard bindings ===
